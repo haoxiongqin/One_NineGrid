@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:id="@+id/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/colorPrimary"
+        >
+        <!-- 返回按钮 -->
+        <TextView
+            android:id="@+id/headerBack"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingLeft="13dp"
+            android:paddingRight="13dp"
+            android:textSize="15sp"
+            android:textColor="#878787"
+            android:clickable="true"
+            android:singleLine="true"
+            android:gravity="center"
+            android:drawableLeft="@drawable/back_black"/>
+
+        <TextView
+            android:id="@+id/headerText"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:textSize="17sp"
+            android:textColor="#ffffff"
+            android:clickable="true"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:text="图片浏览"
+            android:focusableInTouchMode="true"
+            android:singleLine="true"
+            android:maxWidth="180dp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/headerSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:textSize="15sp"
+            android:ellipsize="end"
+            android:maxEms="5"
+            android:clickable="true"
+            android:singleLine="true"
+            android:gravity="center"/>
+    </RelativeLayout>
+    <wujing.cn.library.view.HackyViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
