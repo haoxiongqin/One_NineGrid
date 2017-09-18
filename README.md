@@ -1,4 +1,4 @@
-# Android朋友圈九宫格图片
+﻿# Android朋友圈九宫格图片
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.html)  
 
 <br>  
@@ -10,14 +10,14 @@
 
 |列数|图片
 |---|---|
-|一列|![效果示例]()|
-|二列|![效果示例]()|
-|三列|![效果示例]()|
-|其它|![效果示例]()|  
+|一列|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleOne.png)|
+|二列|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleTwo.png)|
+|三列|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleThree.png)|
+|其它|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleFour.png)|  
 
-###联系方式  <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BjM0MTA-MTA2PkZ3dyhlaWs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_11.png"/></a>  
+### 联系方式  <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BjM0MTA-MTA2PkZ3dyhlaWs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_11.png"/></a>  
 
-##方法  
+## 方法  
 
 |方法名|描述|
 |---|---|
@@ -36,7 +36,7 @@
 
 ##使用步骤  
 
-#### Step 1.依赖  
+####  Step 1.依赖  
 Gradle 
 ```groovy
 dependencies{
