@@ -10,10 +10,10 @@
 
 |列数|图片
 |---|---|
-|一列|![image](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleOne.png)|
-|二列|![image](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleTwo.png)|
-|三列|![image](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleThree.png)|
-|其它|![image](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleFour.png)|  
+|一列|![image](https://raw.githubusercontent.com/haoxiongqin/One_NineGrid/master/app/screenshot/sipmleOne.png)|
+|二列|![image](https://raw.githubusercontent.com/haoxiongqin/One_NineGrid/master/app/screenshot/sipmleTwo.png)|
+|三列|![image](https://raw.githubusercontent.com/haoxiongqin/One_NineGrid/master/app/screenshot/sipmleThree.png)|
+|其它|![image](https://raw.githubusercontent.com/haoxiongqin/One_NineGrid/master/app/screenshot/sipmleFour.png)|  
 
 ### 联系方式  <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BjM0MTA-MTA2PkZ3dyhlaWs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_11.png"/></a>  
 
