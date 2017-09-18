@@ -6,14 +6,14 @@
 显示一张，2张时会平铺，大于3张就会像九宫格那样。当然这里你也可以设置一排显示多少张。其中也
 有点击放大图片。  
 
-##效果图  
+##  效果图  
 
 |列数|图片
 |---|---|
-|一列|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleOne.png)|
-|二列|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleTwo.png)|
-|三列|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleThree.png)|
-|其它|![效果示例](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleFour.png)|  
+|一列|![](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleOne.png)|
+|二列|![](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleTwo.png)|
+|三列|![](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleThree.png)|
+|其它|![](https://github.com/haoxiongqin/One_NineGrid/raw/master/screenshot/sipmleFour.png)|  
 
 ### 联系方式  <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BjM0MTA-MTA2PkZ3dyhlaWs" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_11.png"/></a>  
 
@@ -34,7 +34,7 @@
 |setTitleColour(int titleColour)|标题栏内容的颜色|
 |setBackColour(int backColour)|左侧标题栏的字体颜色|
 
-##使用步骤  
+##  使用步骤  
 
 ####  Step 1.依赖  
 Gradle 
