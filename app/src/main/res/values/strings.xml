@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">One_NineGrid-master</string>
+    <string-array name="img1">
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/20170901143355870tsaig6fscompress_1504247580782.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/201709011433558412efxrg0mcompress_1504247580766.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/201709011433558113pazpn5acompress_1504247580747.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/20170901143355701ss1o7wzqcompress_1504247580700.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/20170901143355701ss1o7wzqcompress_1504247580700.jpg</item>
+    </string-array>
+    <string-array name="img2">
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/20170901143355701ss1o7wzqcompress_1504247580700.jpg</item>
+    </string-array>
+    <string-array name="img3">
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/20170901143355701ss1o7wzqcompress_1504247580700.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/201709011433558412efxrg0mcompress_1504247580766.jpg</item>
+    </string-array>
+    <string-array name="img4">
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/201709011433558412efxrg0mcompress_1504247580766.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/201709011433558113pazpn5acompress_1504247580747.jpg</item>
+        <item>http://60.160.30.50:9999/AttachService/app_attach_viewAttach.shtml?filePath=D:/云食安附件管理/行政端/群众爆料图片/20170901143355701ss1o7wzqcompress_1504247580700.jpg</item>
+    </string-array>
+</resources>
